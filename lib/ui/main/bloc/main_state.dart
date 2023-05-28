@@ -1,0 +1,14 @@
+part of 'main_bloc.dart';
+
+abstract class MainState extends Equatable {
+  const MainState();
+
+  @override
+  List<Object> get props => [];
+}
+
+class MainSLoading extends MainState {}
+
+class MainError extends MainState {}
+
+class MainSuccess extends MainState {}

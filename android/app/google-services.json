@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336376050891",
+    "project_id": "jewelry-e-commerce-6377b",
+    "storage_bucket": "jewelry-e-commerce-6377b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336376050891:android:9d9ed69490538cc50e574e",
+        "android_client_info": {
+          "package_name": "com.example.jewelry_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336376050891-ffinfevpn5e4s8574isvk6377llufv77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jW0SFK0ppb3Y9lWcqgx9lH6A3X6k6vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336376050891-ffinfevpn5e4s8574isvk6377llufv77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
